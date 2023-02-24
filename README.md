@@ -1,23 +1,10 @@
 # React Crypto Chart
 
-[![Latest Github release](https://img.shields.io/github/release/justinkx/react-crypto-chart.svg)](https://github.com/justinkx/react-crypto-chart/releases/latest)
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/justinkx/react-crypto-chart/blob/master/LICENSEs)
-[![Version](https://badge.fury.io/gh/tterb%2FHyde.svg)](https://badge.fury.io/gh/tterb%2FHyde)[![Github All Releases](https://img.shields.io/github/downloads/justinkx/react-crypto-chart/total.svg?style=flat)]()[![Issues](https://img.shields.io/github/issues-raw/justinkx/react-crypto-chart.svg?maxAge=25000)](https://github.com/justinkx/react-crypto-chart/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/justinkx/react-crypto-chart.svg?style=flat)]()
-[![NPM Version](https://img.shields.io/npm/v/npm.svg?style=flat)]()[![GitHub last commit](https://img.shields.io/github/last-commit/justinkx/react-crypto-chart.svg?style=flat)]()
-
-#### crypto chart widget for react using binance api
+#### Crypto chart widget for react using binance api
 
 <img width="1434" alt="React Crypto Chart" src="https://user-images.githubusercontent.com/28846043/121532071-a4571e80-ca1c-11eb-9d08-3c8392737161.png">
 
 ### Example
-
-- Example App:
-
-```
-cd example
-npm install
-npm start
-```
 
 - [Stackblitz example](https://stackblitz.com/edit/react-crypto-chart-jcogao)
 
@@ -36,7 +23,7 @@ yarn add react-crypto-chart
 ## Usage
 
 ```javascript
-import TradeViewChart from 'react-crypto-chart';
+import TradeViewChart from '@dreygur/react-crypto-chart';
 
 <TradeViewChart pair="BTCBUSD" />;
 ```
