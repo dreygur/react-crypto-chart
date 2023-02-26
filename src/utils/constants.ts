@@ -43,7 +43,13 @@ export const defaultChartLayout = {
   crosshair: {
     mode: CrosshairMode.Normal,
   },
-  priceScale: {
+  leftPriceScale: {
+    borderColor: "#485c7b",
+  },
+  rightPriceScale: {
+    borderColor: "#485c7b",
+  },
+  overlayPriceScales: {
     borderColor: "#485c7b",
   },
   timeScale: {

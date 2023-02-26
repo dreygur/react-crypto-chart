@@ -91,7 +91,13 @@ export interface DeffaultChartLayout {
   crosshair?: {
     mode: CrosshairMode;
   };
-  priceScale?: {
+  leftPriceScale?: {
+    borderColor: string;
+  };
+  rightPriceScale?: {
+    borderColor: string;
+  };
+  overlayPriceScales?: {
     borderColor: string;
   };
   timeScale?: {

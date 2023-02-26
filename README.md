@@ -165,12 +165,10 @@ import TradeViewChart from '@dreygur/react-crypto-chart';
 
 - **Rakibul Yeasin** - _Spot and Future Testnet_ - [Github](https://github.com/dreygur)
 
-See also the list of [contributors](https://github.com/justinkx/RNChallenge_1/graphs/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ---
 
-<p align="center">😊Pull requests accepted with ❤️</p>
+Pull requests accepted with ❤️
